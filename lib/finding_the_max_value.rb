@@ -1,10 +1,10 @@
 def find_max_value(array)
   # Add your solution here
   i = 0
-  maxNo = array[i]
+  maxNo = 0
   while i < array.length do
 if array[i] > maxNo
-    
+
     end
     i += 1
   end
